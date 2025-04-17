@@ -1,0 +1,82 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+/* Header Styles */
+h1 {
+    background-color: #5281d8f7;
+    color: #FFFFFF;
+    padding: 30px;
+    text-align: center;
+    margin: 0;
+}
+
+/* Section Title Styles */
+h2 {
+    color: #5281d8f7;
+    border-bottom: 2px;
+}
+
+/* Paragraph Styles */
+p {
+    margin: 20px 40px;
+    padding: 10px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.1);
+}
+
+/* Introduction Paragraph */
+.intro {
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+/* Education Paragraph */
+.education {
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+/* Skills Section */
+.skills ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px 40px;
+}
+
+.skills ul li {
+    color: black;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.skills ul li:hover {
+    background-color: #FFFFFF;
+}
+
+/* Footer (if needed) */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #5281d8f7;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+div{
+    margin: 20px 40px;
+    padding: 10px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.1);
+}
